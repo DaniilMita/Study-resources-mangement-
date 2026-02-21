@@ -1,0 +1,20 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Build directories
+/out/
+/build/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Maven
+/target/
+
